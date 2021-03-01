@@ -1,4 +1,4 @@
-?? Comment any line with double question mark (??) at the first position
+?? Comment any line with double question mark (??) anywhere in the line
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R1.png
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R2.png
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R3.png
