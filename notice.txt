@@ -1,6 +1,6 @@
-?? Comment any line with double question mark (??) anywhere in the line
+?? Comment any line with double question mark (??at the start of the line
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R1.png
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R2.png
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R3.png
-https://neub.edu.bd/images/Notice-Event-News_image/Course_Registration_Notice_Spring_2021.jpg
+??https://neub.edu.bd/images/Notice-Event-News_image/Course_Registration_Notice_Spring_2021.jpg
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-Notice%20for%20Prospective%20students.pdf
