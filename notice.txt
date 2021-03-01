@@ -2,6 +2,6 @@
 ?? When you need to add name of notice use || to separate name and link. In such case name should come first and link should be next. For only link please just paste the link in a line. No space should be provided after and/or before ||
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R1.png
 https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R2.png
-https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R3.png ??
+https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R3.png
 ??https://neub.edu.bd/images/Notice-Event-News_image/Course_Registration_Notice_Spring_2021.jpg
 Summer 2021 Notice 1||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-Notice%20for%20Prospective%20students.pdf
