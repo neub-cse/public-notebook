@@ -1,11 +1,11 @@
 ?? Comment any line with double question mark (??) at the start of the line. Avoid using comment after any link or name. Comments should be on a separate line.
 ?? When you need to add name of notice use || to separate name and link. In such case name should come first and link should be next. For only link please just paste the link in a line. No space should be provided after and/or before ||
-??Spring 2021 Routine Page 1||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R1.png
-??Spring 2021 Routine Page 2||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R2.png
-??Spring 2021 Routine Page 3||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021R3.png
-Spring 2021 Ramadan Routine Page 1||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR1.png
-Spring 2021 Ramadan Routine Page 2||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR2.png
-Spring 2021 Ramadan Routine Page 3||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR3.png
+Summer 2021 Routine Page 1||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R1.png
+Summer 2021 Routine Page 2||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R2.png
+Summer 2021 Routine Page 3||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R3.png
+??Spring 2021 Ramadan Routine Page 1||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR1.png
+??Spring 2021 Ramadan Routine Page 2||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR2.png
+??Spring 2021 Ramadan Routine Page 3||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR3.png
 Spring 2021 Thesis/Project Final Presentation & Viva-voce Date Reschedule||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2021-project-thesis-notice-3.pdf
 Spring 2021 Thesis/Project Final Presentation & Viva-voce Date||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2021-project-thesis-notice-2.pdf
 Summer 2021 Initial Course Offer List||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2021COL.pdf
@@ -13,7 +13,7 @@ Summer 2021 Initial Course Offer List||https://raw.githubusercontent.com/neub-cs
 ??https://neub.edu.bd/images/Notice-Event-News_image/Course_Registration_Notice_Spring_2021.jpg
 ??Summer 2021 Thesis Selected||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-Notice for Thesis selected.pdf
 ??Spring 2021 Thesis/Project Pre-Presentation Notice||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2021-project-thesis-notice-1.pdf
-??Spring 2021 Ramadan Routine ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2021_OnlineRoutineRamadan.pdf
+Summer 2021 Routine ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2021_OnlineRoutine.pdf
 ??Summer 2021 Thesis/Project Notice for Prospective Students||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-Notice%20for%20Prospective%20students.pdf
 ??https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2020-project-thesis-notice-1.pdf
 
