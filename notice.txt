@@ -10,7 +10,6 @@ Summer 2021 Routine Page 3||2021-06-01||https://raw.githubusercontent.com/neub-c
 ??Spring 2021 Ramadan Routine Page 3||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR3.png
 Summer 2021 Thesis/Project Pre Presentation Date||2021-07-25||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-project-thesis-notice-1.pdf
 ??Spring 2021 Thesis/Project Final Presentation & Viva-voce Date||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2021-project-thesis-notice-2.pdf
-Summer 2021 Initial Course Offer List||2021-06-01||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2021COL.pdf
 ??Summer 2021 Thesis/Project Participatory Presentation ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-project-thesis-notice-1.pdf
 ??https://neub.edu.bd/images/Notice-Event-News_image/Course_Registration_Notice_Spring_2021.jpg
 ??Summer 2021 Thesis Selected||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-Notice for Thesis selected.pdf
@@ -19,4 +18,4 @@ Summer 2021 Routine||2021-06-01 ||https://raw.githubusercontent.com/neub-cse/pub
 Fall 2021 Thesis/Project Notice for Prospective Students||2021-07-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Fall-2021-Notice%20for%20Prospective%20students.pdf
 ??https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2020-project-thesis-notice-1.pdf
 Summer 2021 Thesis/Project Final Presentation and Viva Notice||2021-08-26 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-project-thesis-notice-2.pdf
-
+Fall 2021 Initial Course Offer List||2021-08-27||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_initialCOL.pdf
