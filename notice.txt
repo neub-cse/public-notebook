@@ -2,9 +2,9 @@
 ?? When you need to add name of notice use || to separate name and link. In such case name should come first and link should be next. For only link please just paste the link in a line. No space should be provided after and/or before ||
 ??Date should be after Name and separated by ||.
 ?? The format is NAME||DATE||LINK
-Summer 2021 Routine Page 1||2021-06-01||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R1.png
-Summer 2021 Routine Page 2||2021-06-01||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R2.png
-Summer 2021 Routine Page 3||2021-06-01||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R3.png
+?Summer 2021 Routine Page 1||2021-06-01||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R1.png
+?Summer 2021 Routine Page 2||2021-06-01||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R2.png
+?Summer 2021 Routine Page 3||2021-06-01||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/summer2021R3.png
 ??Spring 2021 Ramadan Routine Page 1||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR1.png
 ??Spring 2021 Ramadan Routine Page 2||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR2.png
 ??Spring 2021 Ramadan Routine Page 3||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/spring2021RamadanR3.png
@@ -14,8 +14,10 @@ Summer 2021 Thesis/Project Pre Presentation Date||2021-07-25||https://raw.github
 ??https://neub.edu.bd/images/Notice-Event-News_image/Course_Registration_Notice_Spring_2021.jpg
 ??Summer 2021 Thesis Selected||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-Notice for Thesis selected.pdf
 ??Spring 2021 Thesis/Project Pre-Presentation Notice||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2021-project-thesis-notice-1.pdf
-Summer 2021 Routine||2021-06-01 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2021_OnlineRoutine.pdf
-Fall 2021 Thesis/Project Notice for Prospective Students||2021-07-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Fall-2021-Notice%20for%20Prospective%20students.pdf
+??Summer 2021 Routine||2021-06-01 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2021_OnlineRoutine.pdf
 ??https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2020-project-thesis-notice-1.pdf
+??Fall 2021 Initial Course Offer List||2021-08-27||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_initialCOL.pdf
 Summer 2021 Thesis/Project Final Presentation and Viva Notice||2021-08-26 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-project-thesis-notice-2.pdf
-Fall 2021 Initial Course Offer List||2021-08-27||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_initialCOL.pdf
+Fall 2021 Thesis/Project Notice for Prospective Students||2021-07-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Fall-2021-Notice%20for%20Prospective%20students.pdf
+Fall 2021 Course Offer List||2021-09-16||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_COL.pdf
+Fall 2021 Routine||2021-09-16 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_OnlineRoutine.pdf
