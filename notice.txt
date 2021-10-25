@@ -20,4 +20,5 @@ Summer 2021 Thesis/Project Pre Presentation Date||2021-07-25||https://raw.github
 Summer 2021 Thesis/Project Final Presentation and Viva Notice||2021-08-26 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2021-project-thesis-notice-2.pdf
 Fall 2021 Thesis/Project Notice for Prospective Students||2021-07-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Fall-2021-Notice%20for%20Prospective%20students.pdf
 Fall 2021 Course Offer List||2021-09-16||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_COL.pdf
-Fall 2021 Routine||2021-09-16 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_onlineRoutine.pdf
+??Fall 2021 Routine||2021-09-16 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_onlineRoutine.pdf
+Fall 2021 Routine (Updated)||2021-10-25 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_MixedRoutine.pdf
