@@ -27,3 +27,4 @@ Fall 2021 Thesis/Project Presentation dates||2021-11-13 ||https://raw.githubuser
 Spring 2022 Notice for Prospective Project students||2021-12-28 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2022-Notice-for-Prospective-Project-students.pdf
 Summer 2022 Notice for Prospective Thesis students||2021-12-28 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2022-Notice-for-Prospective-Thesis-students.pdf
 Spring 2022 Course Offer List||2022-01-28||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2022_COL.pdf
+Spring 2022 Routine||2022-01-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2022_OnlineRoutine.pdf
