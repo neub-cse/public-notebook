@@ -23,8 +23,8 @@
 ??Fall 2021 Routine||2021-09-16 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_onlineRoutine.pdf
 ??Fall 2021 Routine (Updated)||2021-10-25 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_MixedRoutine.pdf
 ??Fall 2021 Mid Semester Examination Routine||2021-10-28 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2021_MidSemesterRoutine.pdf
-Fall 2021 Thesis/Project Presentation dates||2021-11-13 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Fall-2021-project-thesis-notice-1.pdf
-Spring 2022 Notice for Prospective Project students||2021-12-28 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2022-Notice-for-Prospective-Project-students.pdf
-Summer 2022 Notice for Prospective Thesis students||2021-12-28 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2022-Notice-for-Prospective-Thesis-students.pdf
+??Fall 2021 Thesis/Project Presentation dates||2021-11-13 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Fall-2021-project-thesis-notice-1.pdf
+??Spring 2022 Notice for Prospective Project students||2021-12-28 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2022-Notice-for-Prospective-Project-students.pdf
+??Summer 2022 Notice for Prospective Thesis students||2021-12-28 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2022-Notice-for-Prospective-Thesis-students.pdf
 Spring 2022 Course Offer List||2022-01-28||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2022_COL.pdf
-Spring 2022 Routine||2022-01-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2022_OnlineRoutine.pdf
+Spring 2022 Routine||2022-01-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2022_OnCampusRoutine.pdf
