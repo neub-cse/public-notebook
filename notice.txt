@@ -30,6 +30,7 @@
 ??Spring 2022 Routine||2022-01-31 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2022_OnCampusRoutine.pdf
 ??Spring 2020 Thesis/Project Presentation dates||2022-06-01 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2022-project-thesis-notice-2.pdf
 Summer 2022 Course Offer List||2022-07-21||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2022_COL.pdf
-Summer 2022 Routine||2022-07-24 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2022.pdf
+??Summer 2022 Routine||2022-07-24 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2022.pdf
+Summer 2022 Routine (Updated)||2022-08-27 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSummer2022.pdf
 ??Spring 2022 (Dual Semester) Thesis/Project Presentation dates||2022-07-24  ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2022-project-thesis-notice-3.pdf
 Summer 2022 Notice for Prospective Project students||2022-08-20 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2022-Notice for Prospective Project students.pdf
