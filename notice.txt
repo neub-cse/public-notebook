@@ -37,3 +37,4 @@
 ??Summer 2022 Thesis/Project Pre-Presentation dates||2022-10-25  ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Summer-2022-project-thesis-notice-1.pdf
 Spring 2024 Course Offer List||2023-12-30||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2024_COL.pdf
 Spring 2024 Routine||2024-01-10 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2024.pdf
+Course Registration Notice||2024-01-15 ||https://neub.edu.bd/images/Notice-Event-News_image/Notice-for-Course-Registration_Spring-2024.jpg
