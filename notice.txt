@@ -39,6 +39,6 @@
 ??Spring 2024 Routine||2024-01-10 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2024.pdf
 ??Course Registration Notice||2024-01-15 ||https://neub.edu.bd/images/Notice-Event-News_image/Notice-for-Course-Registration_Spring-2024.jpg
 ??Spring 2024 Thesis/Project Pre-Presentation dates||2024-04-22  ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2024-project-thesis-notice-1.pdf
-Spring 2024 Thesis/Project Final Presentation & Viva-voce Date||2024-07-02  ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2024-project-thesis-notice-1.pdf
-Fall 2024 Course Offer List||2024-07-04||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2024_COL.pdf
-Fall 2024 Routine||2024-07-04 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2024.pdf
+??Spring 2024 Thesis/Project Final Presentation & Viva-voce Date||2024-07-02  ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2024-project-thesis-notice-1.pdf
+??Fall 2024 Course Offer List||2024-07-04||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2024_COL.pdf
+??Fall 2024 Routine||2024-07-04 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2024.pdf
