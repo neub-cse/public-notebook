@@ -42,6 +42,6 @@
 ??Spring 2024 Thesis/Project Final Presentation & Viva-voce Date||2024-07-02  ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/Spring-2024-project-thesis-notice-1.pdf
 ??Fall 2024 Course Offer List||2024-07-04||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2024_COL.pdf
 ??Fall 2024 Routine||2024-07-04 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineFall2024.pdf
-OBE Course Prerequisites||2025-01-19||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/2301_OBE_Prerequisites.pdf
+OBE Course Prerequisites||2025-01-07||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/2301_OBE_Prerequisites.pdf
 Spring 2025 Course Offer List||2025-01-19||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2025_COL.pdf
 Spring 2025 Routine||2025-01-19 ||https://raw.githubusercontent.com/neub-cse/public-notebook/master/notices/CSERoutineSpring2025.pdf
